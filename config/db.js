@@ -1,5 +1,5 @@
-require('dotenv').config()
-const mongoose = require('mongoose')
+require('dotenv').config();
+const mongoose = require('mongoose');
 
 function connectDB() {
   const connectionString = process.env.MONGODB_CONNECTION_URL;
@@ -8,7 +8,9 @@ function connectDB() {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useFindAndModify: false,
-    useCreateIndex: true
+    useCreateIndex: true,
+    serverSelectionTimeoutMS: 30000,
+    socketTimeoutMS: 45000, 
   });
 
   const connection = mongoose.connection;
