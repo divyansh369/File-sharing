@@ -133,4 +133,4 @@ Special thanks to the authors and contributors of these technologies for their v
 
 ---
 
-https://github.com/divyansh369/File-sharing/blob/main/tut.gif
+https://github.com/divyansh369/File-sharing/blob/af017bac8e37668ebdd35d5fbe64fc95184bff7b/tut.gif
