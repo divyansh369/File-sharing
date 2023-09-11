@@ -127,7 +127,7 @@ Special thanks to the authors and contributors of these technologies for their v
 
 
 ### Contact Details
-* Email: hrs638698@gmail.com
+* Email: divyanshsrivastava215@gmail.com
 
 * LinkedIn Profile: [@Divyansh Srivastava]([https://www.linkedin.com/in/hansraj-singh-396565210/](https://www.linkedin.com/in/divyansh-srivastava-5a5956206/))
 
