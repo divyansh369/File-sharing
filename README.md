@@ -5,15 +5,15 @@ File sharing App is a **Node.js, Express, MongoDB, and the EJS templating engine
 👉👉[Try It here](https://file-sharing-0bha.onrender.com)
 
 ![File Manager app ss](https://github.com/divyansh369/File-sharing/blob/main/Assets/Screenshot%20(74).png)
- gives you freedom and control over your own data.
+
 
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Node JS][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
+* [![Express JS][Vue.js]][Vue-url]
+* [![Mongo DB][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
