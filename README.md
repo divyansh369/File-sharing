@@ -11,7 +11,7 @@ File sharing App is a **Node.js, Express, MongoDB, and the EJS templating engine
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-*![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+* ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 * [![Express JS][Vue.js]][Vue-url]
 * [![Mongo DB][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
