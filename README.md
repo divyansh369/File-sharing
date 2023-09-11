@@ -129,7 +129,7 @@ Special thanks to the authors and contributors of these technologies for their v
 ### Contact Details
 * Email: divyanshsrivastava215@gmail.com
 
-* LinkedIn Profile: [@Divyansh Srivastava][https://www.linkedin.com/in/divyansh-srivastava-5a5956206/]
+* LinkedIn Profile: [@Divyansh Srivastava](https://www.linkedin.com/in/divyansh-srivastava-5a5956206/)
 
 ---
 
