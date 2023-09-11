@@ -1,6 +1,6 @@
 # File Sharing App ⭐
 
-**[File sharing App]([http://ownCloud.com](https://file-sharing-0bha.onrender.com)) is a **Node.js, Express, MongoDB, and the EJS templating engine** based application designed to help users send their files efficiently.
+**[File sharing App](https://file-sharing-0bha.onrender.com) is a **Node.js, Express, MongoDB, and the EJS templating engine** based application designed to help users send their files efficiently.
 ![File Manager app ss](https://github.com/divyansh369/File-sharing/blob/main/Assets/Screenshot%20(74).png)
  gives you freedom and control over your own data.
 
