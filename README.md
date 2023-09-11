@@ -51,7 +51,7 @@ Follow these steps to set up the application:
    npm install mongoose 
    ```
 
-## Get Started
+## Get Started 📕
 
 To run the To-Do List App, perform the following actions:
 
@@ -122,13 +122,13 @@ The project structure is as follows:
      
 ---
 
-## Contributing
+## Contributing 
 Contributions are welcome! 
 
 If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
 
 ---
-## Acknowledgements
+## Acknowledgements 👍
 This project was created using Node.js, Express, MongoDB, and the EJS templating engine. 
 
 Special thanks to the authors and contributors of these technologies for their valuable work. 
