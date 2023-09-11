@@ -133,8 +133,4 @@ Special thanks to the authors and contributors of these technologies for their v
 
 ---
 
-https://github.com/divyansh369/File-sharing/blob/main/Assets/Screenshot%20(74).png
-
----
-
-https://github.com/divyansh369/File-sharing/blob/main/Assets/File%20sharing%20app%20-%20Made%20with%20Clipchamp%20(1).mp4
+[https://github.com/divyansh369/File-sharing/blob/main/Assets/File%20sharing%20app%20-%20Made%20with%20Clipchamp%20(1).mp4]
