@@ -23,7 +23,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 
-## Installation (https://www.flaticon.com/free-icon/management_4052780?term=project+setup&page=1&position=16&origin=search&related_id=4052780#) 
+## Installation ⚒ 
 
 Follow these steps to set up the application:
 
